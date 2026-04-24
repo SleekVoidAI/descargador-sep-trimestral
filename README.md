@@ -1,8 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-complete-success)
 ![Automation](https://img.shields.io/badge/type-automation-purple)
-![Repo Size](https://img.shields.io/github/repo-size/SleekVoidAI/descargador_sep_trimestral)
-![Last Commit](https://img.shields.io/github/last-commit/SleekVoidAI/descargador_sep_trimestral)
+
 
 
 DESCARGADOR SEP TRIMESTRAL - PYTHON
